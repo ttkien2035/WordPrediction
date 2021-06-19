@@ -1,0 +1,2 @@
+- Code dự đoán chữ tiếp theo sử dụng LSTM
+- Chức năng thống kê những từ sai
